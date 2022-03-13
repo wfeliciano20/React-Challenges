@@ -19,10 +19,13 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div style={{textAlign: 'center'}}>
       <h1>Click me for color change</h1>
       <div 
-        style={{  
+        style={{
+                display: 'flex',
+                justifyContent: 'center',
+                alignItems: 'center',
                 margin: '100px auto',
                 height: '300px',
                 width: '300px',
