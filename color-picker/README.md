@@ -11,3 +11,4 @@ create three state variables that will serve as the RGB values for the styling o
 create a div element with width and height of 300px, margin: 100px auto, and backgroundColor with a template string 
 utilizing the three state variables.
 
+create an onclick that sets the three state variables for red,green and blue to a random value.
