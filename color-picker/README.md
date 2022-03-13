@@ -1,8 +1,8 @@
-## React Challenge
+# React Challenge
 
 Build a simple React app with the following features:
 
-### On the App.js  
+## On the App.js  
 
 create a function that generates a random value between 0 and 255.
 
