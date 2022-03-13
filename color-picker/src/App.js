@@ -5,7 +5,7 @@ import {useState} from 'react';
 function App() {
 
   const createRandomRGBValue = () => {
-  return Math.floor(Math.random() * 256 + 1);
+  return Math.floor(Math.random() * 256);
   };
 
   const [red, setRed] = useState(createRandomRGBValue());
