@@ -1,0 +1,17 @@
+.TodoList-Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: lightgray;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid lightYellow;
+}
+
+.List {
+    text-decoration: none;
+}

@@ -1,0 +1,46 @@
+.Form-Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: lightgray;
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+    border: 1px solid lightYellow;
+}
+
+.Form {
+    display: flex;
+    flex-direction: column;
+}
+
+.label {
+    margin: .5rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: lightyellow;
+}
+
+.Input {
+    border: 1px solid gray;
+    border-radius: .5rem;
+    padding: .5rem;
+    margin: .5rem;
+    width: 90%;
+    height: 1rem;
+}
+
+.Button {
+    background-color: lightyellow;
+    color: lightblue;
+    border: 1px solid lightblue;
+    border-radius: .5rem;
+    padding: .5rem;
+    margin: .5rem;
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: bold;
+}

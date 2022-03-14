@@ -1,0 +1,38 @@
+.Todo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightyellow;
+    color: lightblue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: .5rem;
+    border-radius: .5rem;
+    height: 2.5rem;
+    padding: .5rem;
+}
+
+.Todo button {
+    background-color: transparent;
+    border-width: 0;
+}
+
+.Button-Danger {
+    color: lightcoral;
+    font-size: 1.5rem;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.Button-Success {
+    color: lightgreen;
+    font-size: 1.5rem;
+    background-color: transparent;
+    cursor: pointer;
+    margin-right: 2px;
+}
+
+.Checked {
+    text-decoration: line-through;
+    text-decoration-color: lightcoral;
+}
