@@ -3,7 +3,7 @@
 In this challenge you will need to build a todo app that consist of 4 components.
 
 - **TodoForm**: This component will be responsible for rendering the form to add a new todo.
-- **TodoItem**: This component will be responsible for rendering each individual todo.
+- **TodoElement**: This component will be responsible for rendering each individual todo.
 - **TodoList**: This component will be responsible for rendering the list of todos.
 - **App**: This component will be responsible for rendering the entire app and holding the todos state variable.
 
